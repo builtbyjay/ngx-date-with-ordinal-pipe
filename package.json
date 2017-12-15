@@ -2,9 +2,6 @@
   "name": "@wongatech/ngx-date-with-ordinal-pipe",
   "version": "0.1.2",
   "description": "Angular Date Pipe, extended to provide ordinals (st, nd, rd, th)",
-  "files": [
-    "dist"
-  ],
   "scripts": {
     "test": "tslint src/*.ts && jest",
     "test:coverage": "jest --coverage",
