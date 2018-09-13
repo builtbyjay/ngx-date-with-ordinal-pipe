@@ -1,6 +1,6 @@
 {
-  "name": "@wongatech/ngx-date-with-ordinal-pipe",
-  "version": "0.1.4",
+  "name": "ngx-date-with-ordinal-pipe",
+  "version": "0.0.1",
   "description": "Angular Date Pipe, extended to provide ordinals (st, nd, rd, th)",
   "scripts": {
     "test": "tslint src/*.ts && jest",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wongatech/ngx-date-with-ordinal-pipe.git"
+    "url": "git+https://github.com/builtbyjay/ngx-date-with-ordinal-pipe.git"
   },
   "keywords": [
     "angular2",
@@ -25,12 +25,12 @@
     "rd",
     "th"
   ],
-  "author": "Jay Vincent <jay.vincent@wonga.com>",
+  "author": "Jay Vincent <hello@builtbyjay.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wongatech/ngx-date-with-ordinal-pipe/issues"
+    "url": "https://github.com/builtbyjay/ngx-date-with-ordinal-pipe/issues"
   },
-  "homepage": "https://github.com/wongatech/ngx-date-with-ordinal-pipe#readme",
+  "homepage": "https://github.com/builtbyjay/ngx-date-with-ordinal-pipe#readme",
   "peerDependencies": {
     "@angular/core": ">=2.4.0",
     "@angular/common": ">=2.4.0"
